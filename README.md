@@ -575,143 +575,39 @@ npm run build
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://via.placeholder.com/150x150/E65100/E65100.png?text=+" alt="Primary"/>
+<img src="https://placehold.co/150x150/E65100/E65100.png" alt="Primary"/>
 <br/><br/>
-<b>ðŸ”¥ Primary</b><br/>
+<b>🔥 Primary</b><br/>
 <code>#E65100</code><br/>
 <sub>Burnt Orange</sub><br/>
 <small>rgb(230, 81, 0)</small><br/>
 <small>hsl(21, 100%, 45%)</small>
 </td>
 <td align="center" width="20%">
-<img src="https://via.placeholder.com/150x150/FF6F00/FF6F00.png?text=+" alt="Secondary"/>
+<img src="https://placehold.co/150x150/FF6F00/FF6F00.png" alt="Secondary"/>
 <br/><br/>
-<b>ðŸŒ… Secondary</b><br/>
+<b>🌅 Secondary</b><br/>
 <code>#FF6F00</code><br/>
 <sub>Deep Orange</sub><br/>
 <small>rgb(255, 111, 0)</small><br/>
 <small>hsl(26, 100%, 50%)</small>
 </td>
 <td align="center" width="20%">
-<img src="https://via.placeholder.com/150x150/030303/030303.png?text=+" alt="Background"/>
+<img src="https://placehold.co/150x150/030303/030303.png" alt="Background"/>
 <br/><br/>
-<b>ðŸŒ‘ Background</b><br/>
+<b>🌑 Background</b><br/>
 <code>#030303</code><br/>
 <sub>Almost Black</sub><br/>
 <small>rgb(3, 3, 3)</small><br/>
 <small>hsl(0, 0%, 1%)</small>
 </td>
 <td align="center" width="20%">
-<img src="https://via.placeholder.com/150x150/FFFFFF/FFFFFF.png?text=+" alt="Text"/>
+<img src="https://placehold.co/150x150/FFFFFF/FFFFFF.png" alt="Text"/>
 <br/><br/>
-<b>ðŸ’¡ Text</b><br/>
+<b>💡 Text</b><br/>
 <code>#FFFFFF</code><br/>
 <sub>Pure White</sub><br/>
 <small>rgb(255, 255, 255)</small><br/>
-<small>hsl(0, 0%, 100%)</small>
-</td>
-<td align="center" width="20%">
-<img src="https://via.placeholder.com/150x150/A0A0A0/A0A0A0.png?text=+" alt="Muted"/>
-<br/><br/>
-<b>ðŸŒ«ï¸ Muted</b><br/>
-<code>#A0A0A0</code><br/>
-<sub>Light Gray</sub><br/>
-<small>rgb(160, 160, 160)</small><br/>
-<small>hsl(0, 0%, 63%)</small>
-</td>
-</tr>
-</table>
-
-**Extended Palette:**
-
-```css
-/* Success Colors */
---success-light: #66BB6A;
---success-main: #4CAF50;
---success-dark: #388E3C;
-
-/* Error Colors */
---error-light: #EF5350;
---error-main: #F44336;
---error-dark: #C62828;
-
-/* Warning Colors */
---warning-light: #FFB74D;
---warning-main: #FF9800;
---warning-dark: #F57C00;
-
-/* Info Colors */
---info-light: #4FC3F7;
---info-main: #2196F3;
---info-dark: #1976D2;
-```
-
-<br/>
-
-### âœï¸ Typography
-
-<table>
-<tr>
-<th>Element</th>
-<th>Font Family</th>
-<th>Weight</th>
-<th>Size</th>
-<th>Line Height</th>
-<th>Letter Spacing</th>
-<th>Usage</th>
-</tr>
-<tr>
-<td><b>🎯 H1 Headings</b></td>
-<td>Playfair Display</td>
-<td>700 (Bold)</td>
-<td>2.5rem (40px)</td>
-<td>1.2</td>
-<td>-0.01em</td>
-<td>Page titles, hero text</td>
-</tr>
-<tr>
-<td><b>🎯 H2 Headings</b></td>
-<td>Playfair Display</td>
-<td>600 (Semi-bold)</td>
-<td>2rem (32px)</td>
-<td>1.3</td>
-<td>-0.005em</td>
-<td>Section headers</td>
-</tr>
-<tr>
-<td><b>🎯 H3 Headings</b></td>
-<td>Inter</td>
-<td>600 (Semi-bold)</td>
-<td>1.5rem (24px)</td>
-<td>1.4</td>
-<td>0</td>
-<td>Subsection titles</td>
-</tr>
-<tr>
-<td><b>ðŸ“ Body Text</b></td>
-<td>Inter</td>
-<td>400 (Regular)</td>
-<td>1rem (16px)</td>
-<td>1.6</td>
-<td>0</td>
-<td>Paragraphs, descriptions</td>
-</tr>
-<tr>
-<td><b>ðŸ”˜ Buttons</b></td>
-<td>Inter</td>
-<td>600 (Semi-bold)</td>
-<td>0.95rem (15px)</td>
-<td>1.5</td>
-<td>0.02em</td>
-<td>CTAs, actions</td>
-</tr>
-<tr>
-<td><b>ðŸ·ï¸ Labels</b></td>
-<td>Inter</td>
-<td>600 (Semi-bold)</td>
-<td>0.75rem (12px)</td>
-<td>1.5</td>
-<td>0.05em</td>
 <td>Form labels, tags</td>
 </tr>
 <tr>
@@ -724,7 +620,7 @@ npm run build
 <td>Metrics, values</td>
 </tr>
 <tr>
-<td><b>ðŸ’» Code</b></td>
+<td><b>💻 Code</b></td>
 <td>Fira Code</td>
 <td>400 (Regular)</td>
 <td>0.9rem (14px)</td>
@@ -757,14 +653,14 @@ npm run build
 | **Z-Index Scale** | 0, 10, 100, 1000, 10000 | Layering system |
 
 **Component Library:**
-- âœ… Buttons (Primary, Secondary, Tertiary, Icon)
-- âœ… Inputs (Text, Number, Select, Checkbox, Radio)
-- âœ… Cards (Default, Elevated, Outlined)
-- âœ… Modals (Dialog, Drawer, Popover)
-- âœ… Toasts (Success, Error, Warning, Info)
-- âœ… Loaders (Spinner, Skeleton, Progress)
-- âœ… Charts (Pie, Line, Area, Radar, Bar)
-- âœ… Navigation (Header, Sidebar, Breadcrumbs)
+- ✅ Buttons (Primary, Secondary, Tertiary, Icon)
+- ✅ Inputs (Text, Number, Select, Checkbox, Radio)
+- ✅ Cards (Default, Elevated, Outlined)
+- ✅ Modals (Dialog, Drawer, Popover)
+- ✅ Toasts (Success, Error, Warning, Info)
+- ✅ Loaders (Spinner, Skeleton, Progress)
+- ✅ Charts (Pie, Line, Area, Radar, Bar)
+- ✅ Navigation (Header, Sidebar, Breadcrumbs)
 
 <br/>
 ### 🔄 Workflow
