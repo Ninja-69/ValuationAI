@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <!-- ANIMATED HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Valuation.AI&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
