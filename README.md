@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <b>ðŸš€ The Most Advanced Startup Valuation Platform Ever Built ðŸš€</b>
+  <b>🚀 The Most Advanced Startup Valuation Platform Ever Built 🚀</b>
 </p>
 
 <!-- MAIN BADGES ROW 1 - STATS -->
@@ -58,19 +58,19 @@
 <!-- QUICK NAVIGATION -->
 <p align="center">
   <a href="#-features">
-    <img src="https://img.shields.io/badge/ðŸŽ¯_Features-E65100?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Features"/>
+    <img src="https://img.shields.io/badge/🎯_Features-E65100?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Features"/>
   </a>
   <a href="#-quick-start">
-    <img src="https://img.shields.io/badge/âš¡_Quick_Start-00D26A?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Quick Start"/>
+    <img src="https://img.shields.io/badge/⚡_Quick_Start-00D26A?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Quick Start"/>
   </a>
   <a href="#-demo">
-    <img src="https://img.shields.io/badge/ðŸ“¸_Demo-2196F3?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Demo"/>
+    <img src="https://img.shields.io/badge/📸_Demo-2196F3?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Demo"/>
   </a>
   <a href="#-documentation">
-    <img src="https://img.shields.io/badge/ðŸ“š_Docs-FF6B35?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Docs"/>
+    <img src="https://img.shields.io/badge/📚_Docs-FF6B35?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Docs"/>
   </a>
   <a href="#-contributing">
-    <img src="https://img.shields.io/badge/ðŸ¤_Contribute-9C27B0?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Contribute"/>
+    <img src="https://img.shields.io/badge/🤝_Contribute-9C27B0?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Contribute"/>
   </a>
 </p>
 
@@ -81,18 +81,6 @@
 
 <br/><br/>
 
-<!-- CALL TO ACTION -->
-<p align="center">
-  <a href="https://github.com/Ninja-69/ValuationAI">
-    <img src="https://img.shields.io/badge/â­_Star_This_Repo-E65100?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="Star"/>
-  </a>
-  <a href="https://github.com/Ninja-69/ValuationAI/fork">
-    <img src="https://img.shields.io/badge/ðŸ´_Fork_Now-00D26A?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="Fork"/>
-  </a>
-  <a href="https://github.com/Ninja-69/ValuationAI/issues/new">
-    <img src="https://img.shields.io/badge/ðŸ›_Report_Bug-FF3D00?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="Report Bug"/>
-  </a>
-</p>
 
 </div>
 
@@ -102,58 +90,58 @@
 
 <br/>
 
-## ðŸ“‘ Table of Contents
+## 📑 Table of Contents
 
 <details open>
-<summary><b>ðŸ“– Click to expand/collapse navigation</b></summary>
+<summary><b>📖 Click to expand/collapse navigation</b></summary>
 <br/>
 
-### ðŸŽ¯ Core Sections
-- **[âœ¨ Features](#-features)** - Comprehensive feature overview
-  - [ðŸŽ¨ Visual Excellence](#-visual-excellence) - UI/UX innovations
-  - [ðŸ“Š Advanced Analytics](#-advanced-analytics) - Data intelligence
-  - [ðŸ’¾ Data Management](#-data-management) - Persistence & export
-  - [ðŸŽ® User Experience](#-user-experience) - Interaction design
+### 🎯 Core Sections
+- **[✨ Features](#-features)** - Comprehensive feature overview
+  - [🎨 Visual Excellence](#-visual-excellence) - UI/UX innovations
+  - [📊 Advanced Analytics](#-advanced-analytics) - Data intelligence
+  - [💾 Data Management](#-data-management) - Persistence & export
+  - [🎮 User Experience](#-user-experience) - Interaction design
   
-- **[âš¡ Quick Start](#-quick-start)** - Get running in 2 minutes
-  - [ðŸ“‹ Prerequisites](#-prerequisites) - System requirements
-  - [ðŸ”§ Installation](#-installation) - Setup instructions
-  - [ðŸš€ Running Locally](#-running-locally) - Development mode
-  - [ðŸ“¦ Production Build](#-production-build) - Deployment ready
+- **[⚡ Quick Start](#-quick-start)** - Get running in 2 minutes
+  - [📋 Prerequisites](#-prerequisites) - System requirements
+  - [🔧 Installation](#-installation) - Setup instructions
+  - [🚀 Running Locally](#-running-locally) - Development mode
+  - [📦 Production Build](#-production-build) - Deployment ready
 
-### ðŸ“š Documentation
-- **[ðŸ“¸ Demo & Screenshots](#-demo--screenshots)** - Visual showcase
+### 📚 Documentation
+- **[📸 Demo & Screenshots](#-demo--screenshots)** - Visual showcase
 - **[ðŸ—ï¸ Tech Stack](#ï¸-tech-stack)** - Technologies used
-- **[ðŸŽ¨ Design System](#-design-system)** - Design principles
-  - [ðŸŽ¨ Color Palette](#-color-palette-1) - Brand colors
+- **[🎨 Design System](#-design-system)** - Design principles
+  - [🎨 Color Palette](#-color-palette-1) - Brand colors
   - [âœï¸ Typography](#ï¸-typography-1) - Font system
-  - [ðŸŽ­ Components](#-components-1) - UI components
+  - [🎭 Components](#-components-1) - UI components
   
-- **[ðŸ“– Usage Guide](#-usage-guide)** - How to use
-  - [ðŸ”„ Workflow](#-workflow-1) - User journey
-  - [âŒ¨ï¸ Keyboard Shortcuts](#ï¸-keyboard-shortcuts-1) - Power user features
-  - [ðŸŽ¯ Best Practices](#-best-practices-1) - Pro tips
+- **[📖 Usage Guide](#-usage-guide)** - How to use
+  - [🔄 Workflow](#-workflow-1) - User journey
+  - [⌨️ Keyboard Shortcuts](#ï¸-keyboard-shortcuts-1) - Power user features
+  - [🎯 Best Practices](#-best-practices-1) - Pro tips
 
-### ðŸ”¬ Technical Details
-- **[ðŸ§® Valuation Algorithm](#-valuation-algorithm)** - How it works
-  - [ðŸ“Š Algorithm Components](#-algorithm-components) - Factor breakdown
-  - [ðŸ”¢ Mathematical Formula](#-mathematical-formula) - Calculation logic
-  - [ðŸ“ˆ Example Calculation](#-example-calculation) - Real-world example
+### 🔬 Technical Details
+- **[🧮 Valuation Algorithm](#-valuation-algorithm)** - How it works
+  - [📊 Algorithm Components](#-algorithm-components) - Factor breakdown
+  - [🔢 Mathematical Formula](#-mathematical-formula) - Calculation logic
+  - [📈 Example Calculation](#-example-calculation) - Real-world example
   
-- **[ðŸ—‚ï¸ Project Structure](#ï¸-project-structure)** - Codebase organization
-- **[ðŸ”Œ API Reference](#-api-reference)** - Integration guide
+- **[🗂️ Project Structure](#ï¸-project-structure)** - Codebase organization
+- **[🔌 API Reference](#-api-reference)** - Integration guide
 
-### ðŸ¤ Community
-- **[ðŸ¤ Contributing](#-contributing)** - Join the project
-  - [ðŸ‘¥ Contributors](#-contributors-1) - Hall of fame
+### 🤝 Community
+- **[🤝 Contributing](#-contributing)** - Join the project
+  - [👥 Contributors](#-contributors-1) - Hall of fame
   - [ðŸ› Bug Reports](#-bug-reports-1) - Issue templates
-  - [âœ¨ Feature Requests](#-feature-requests-1) - Suggest ideas
+  - [✨ Feature Requests](#-feature-requests-1) - Suggest ideas
   
-- **[ðŸ“„ License](#-license)** - MIT License
-- **[ðŸ™ Acknowledgments](#-acknowledgments)** - Credits & thanks
-- **[ðŸ“ž Support & Community](#-support--community)** - Get help
-- **[ðŸ—ºï¸ Roadmap](#ï¸-roadmap)** - Future plans
-- **[ðŸ“Š Project Stats](#-project-stats)** - Analytics & metrics
+- **[📄 License](#-license)** - MIT License
+- **[🙏 Acknowledgments](#-acknowledgments)** - Credits & thanks
+- **[📞 Support & Community](#-support--community)** - Get help
+- **[🗺️ Roadmap](#ï¸-roadmap)** - Future plans
+- **[📊 Project Stats](#-project-stats)** - Analytics & metrics
 
 </details>
 
@@ -163,26 +151,26 @@
 
 <br/>
 
-## âœ¨ Features
+## ✨ Features
 
 > **Why Valuation.AI?** We've built the most comprehensive startup valuation tool with features that rival enterprise software - all open source and free.
 
 <br/>
 
-### ðŸŽ¨ Visual Excellence
+### 🎨 Visual Excellence
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### ðŸŒŒ Interactive Particle System
+#### 🌌 Interactive Particle System
 ```
-âœ“ 100+ Floating Particles
-âœ“ Mouse Parallax Effect
-âœ“ Dynamic Network Connections
-âœ“ 60fps Performance
-âœ“ Customizable Density
-âœ“ Color Theming Support
+✓ 100+ Floating Particles
+✓ Mouse Parallax Effect
+✓ Dynamic Network Connections
+✓ 60fps Performance
+✓ Customizable Density
+✓ Color Theming Support
 ```
 
 **Tech:** Canvas API, RequestAnimationFrame, Event Delegation
@@ -190,14 +178,14 @@
 </td>
 <td width="50%" valign="top">
 
-#### âœ¨ Premium Animations
+#### ✨ Premium Animations
 ```
-âœ“ Custom Glowing Cursor
-âœ“ Confetti Celebrations
-âœ“ Framer Motion Transitions
-âœ“ Glassmorphism UI
-âœ“ Micro-interactions
-âœ“ Loading Skeletons
+✓ Custom Glowing Cursor
+✓ Confetti Celebrations
+✓ Framer Motion Transitions
+✓ Glassmorphism UI
+✓ Micro-interactions
+✓ Loading Skeletons
 ```
 
 **Tech:** Framer Motion, CSS Animations, Canvas Confetti
@@ -208,13 +196,13 @@
 
 <br/>
 
-### ðŸ“Š Advanced Analytics
+### 📊 Advanced Analytics
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-#### ðŸ“ˆ Data Visualization
+#### 📈 Data Visualization
 - **Pie Chart** - Valuation breakdown by factor
 - **Area Chart** - Historical trend analysis
 - **Radar Chart** - Multi-metric comparison
@@ -227,7 +215,7 @@
 </td>
 <td width="33%" valign="top">
 
-#### ðŸŽ¯ Industry Benchmarks
+#### 🎯 Industry Benchmarks
 - **6+ Industries** - SaaS, AI, Fintech, E-commerce, Healthcare, Enterprise
 - **Percentile Rankings** - Top 10%, 25%, 50%, 75%, 90%
 - **Real Market Data** - Updated quarterly
@@ -256,7 +244,7 @@
 
 <br/>
 
-### ðŸ’¾ Data Management
+### 💾 Data Management
 
 <table>
 <tr>
@@ -301,13 +289,13 @@
 
 <br/>
 
-### ðŸŽ® User Experience
+### 🎮 User Experience
 
 <table>
 <tr>
 <td width="25%" valign="top">
 
-#### âŒ¨ï¸ Shortcuts
+#### ⌨️ Shortcuts
 ```
 Ctrl+S    Save
 Ctrl+Enter Calculate
@@ -324,14 +312,14 @@ Esc       Reset
 
 #### ðŸ”Š Feedback
 ```
-âœ“ Sound Effects
-âœ“ Toast Notifications
-âœ“ Haptic Feedback
-âœ“ Loading States
-âœ“ Error Handling
-âœ“ Success Animations
-âœ“ Progress Indicators
-âœ“ Status Messages
+✓ Sound Effects
+✓ Toast Notifications
+✓ Haptic Feedback
+✓ Loading States
+✓ Error Handling
+✓ Success Animations
+✓ Progress Indicators
+✓ Status Messages
 ```
 
 </td>
@@ -339,14 +327,14 @@ Esc       Reset
 
 #### ðŸ“± Responsive
 ```
-âœ“ Desktop (1920px+)
-âœ“ Laptop (1366px+)
-âœ“ Tablet (768px+)
-âœ“ Mobile (375px+)
-âœ“ PWA Support
-âœ“ Offline Mode
-âœ“ Touch Optimized
-âœ“ Retina Ready
+✓ Desktop (1920px+)
+✓ Laptop (1366px+)
+✓ Tablet (768px+)
+✓ Mobile (375px+)
+✓ PWA Support
+✓ Offline Mode
+✓ Touch Optimized
+✓ Retina Ready
 ```
 
 </td>
@@ -354,14 +342,14 @@ Esc       Reset
 
 #### â™¿ Accessible
 ```
-âœ“ WCAG 2.1 AA
-âœ“ Keyboard Navigation
-âœ“ Screen Reader Support
-âœ“ High Contrast Mode
-âœ“ Focus Indicators
-âœ“ ARIA Labels
-âœ“ Semantic HTML
-âœ“ Alt Text
+✓ WCAG 2.1 AA
+✓ Keyboard Navigation
+✓ Screen Reader Support
+✓ High Contrast Mode
+✓ Focus Indicators
+✓ ARIA Labels
+✓ Semantic HTML
+✓ Alt Text
 ```
 
 </td>
@@ -374,13 +362,13 @@ Esc       Reset
 
 <br/>
 
-## âš¡ Quick Start
+## ⚡ Quick Start
 
 > Get Valuation.AI running locally in under 2 minutes!
 
 <br/>
 
-### ðŸ“‹ Prerequisites
+### 📋 Prerequisites
 
 Ensure your system meets these requirements:
 
@@ -394,7 +382,7 @@ Ensure your system meets these requirements:
 
 <br/>
 
-### ðŸ”§ Installation
+### 🔧 Installation
 
 ```bash
 # 1ï¸âƒ£ Clone the repository
@@ -418,7 +406,7 @@ git clone https://github.com/Ninja-69/ValuationAI.git && cd ValuationAI && npm i
 
 <br/>
 
-### ðŸš€ Running Locally
+### 🚀 Running Locally
 
 ```bash
 # Development mode (hot reload)
@@ -442,7 +430,7 @@ npm run format
 
 <br/>
 
-### ðŸ“¦ Production Build
+### 📦 Production Build
 
 ```bash
 # Create optimized build
@@ -469,7 +457,7 @@ npm run build
 
 <br/>
 
-## ðŸ“¸ Demo & Screenshots
+## 📸 Demo & Screenshots
 
 > See Valuation.AI in action with real screenshots from the live application
 
@@ -489,7 +477,7 @@ npm run build
 
 <br/>
 
-### ðŸ“Š Results Dashboard - Data Visualization
+### 📊 Results Dashboard - Data Visualization
 
 <img src="screenshots/results.png" alt="Results Dashboard" width="100%" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);"/>
 
@@ -501,7 +489,7 @@ npm run build
 
 <br/>
 
-### ðŸ“ˆ Analytics View - Full Dashboard
+### 📈 Analytics View - Full Dashboard
 
 <img src="screenshots/dashboard.png" alt="Full Dashboard" width="100%" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);"/>
 
@@ -576,13 +564,13 @@ npm run build
 
 <br/>
 
-## ðŸŽ¨ Design System
+## 🎨 Design System
 
 > Our design philosophy: Premium, Professional, Performant
 
 <br/>
 
-### ðŸŽ¨ Color Palette
+### 🎨 Color Palette
 
 <table>
 <tr>
@@ -673,7 +661,7 @@ npm run build
 <th>Usage</th>
 </tr>
 <tr>
-<td><b>ðŸŽ¯ H1 Headings</b></td>
+<td><b>🎯 H1 Headings</b></td>
 <td>Playfair Display</td>
 <td>700 (Bold)</td>
 <td>2.5rem (40px)</td>
@@ -682,7 +670,7 @@ npm run build
 <td>Page titles, hero text</td>
 </tr>
 <tr>
-<td><b>ðŸŽ¯ H2 Headings</b></td>
+<td><b>🎯 H2 Headings</b></td>
 <td>Playfair Display</td>
 <td>600 (Semi-bold)</td>
 <td>2rem (32px)</td>
@@ -691,7 +679,7 @@ npm run build
 <td>Section headers</td>
 </tr>
 <tr>
-<td><b>ðŸŽ¯ H3 Headings</b></td>
+<td><b>🎯 H3 Headings</b></td>
 <td>Inter</td>
 <td>600 (Semi-bold)</td>
 <td>1.5rem (24px)</td>
@@ -727,7 +715,7 @@ npm run build
 <td>Form labels, tags</td>
 </tr>
 <tr>
-<td><b>ðŸ”¢ Numbers</b></td>
+<td><b>🔢 Numbers</b></td>
 <td>Inter</td>
 <td>700 (Bold)</td>
 <td>Variable</td>
@@ -755,7 +743,7 @@ npm run build
 
 <br/>
 
-### ðŸŽ­ Components
+### 🎭 Components
 
 **Design Principles:**
 
