@@ -1,0 +1,206 @@
+.save-load-panel {
+    display: flex;
+    gap: var(--space-sm);
+    align-items: center;
+}
+
+.save-btn,
+.load-btn {
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid var(--border-color);
+    color: var(--text-primary);
+    padding: var(--space-sm) var(--space-md);
+    border-radius: var(--radius-md);
+    cursor: pointer;
+    transition: var(--transition-smooth);
+    font-family: var(--font-sans);
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+.save-btn:hover,
+.load-btn:hover {
+    background: rgba(255, 255, 255, 0.1);
+    border-color: var(--accent-primary);
+    transform: translateY(-1px);
+}
+
+.load-dropdown {
+    position: relative;
+}
+
+.dropdown-menu {
+    position: absolute;
+    top: calc(100% + var(--space-sm));
+    right: 0;
+    background: rgba(20, 20, 20, 0.98);
+    backdrop-filter: blur(20px);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-lg);
+    min-width: 350px;
+    max-height: 500px;
+    overflow: hidden;
+    z-index: 1000;
+    animation: slideDown 0.2s ease-out;
+}
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.dropdown-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: var(--space-md);
+    border-bottom: 1px solid var(--border-color);
+}
+
+.dropdown-header h4 {
+    font-family: var(--font-serif);
+    font-size: 1.1rem;
+    color: var(--text-primary);
+    margin: 0;
+}
+
+.close-btn {
+    background: none;
+    border: none;
+    color: var(--text-secondary);
+    font-size: 1.5rem;
+    cursor: pointer;
+    padding: 0;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: var(--radius-sm);
+    transition: var(--transition-fast);
+}
+
+.close-btn:hover {
+    background: rgba(255, 255, 255, 0.1);
+    color: var(--text-primary);
+}
+
+.empty-state {
+    padding: var(--space-2xl);
+    text-align: center;
+    color: var(--text-secondary);
+}
+
+.empty-state p {
+    margin-bottom: var(--space-xs);
+    font-size: 1rem;
+}
+
+.empty-state small {
+    font-size: 0.85rem;
+    opacity: 0.7;
+}
+
+.calculations-list {
+    max-height: 400px;
+    overflow-y: auto;
+    padding: var(--space-sm);
+}
+
+.calculations-list::-webkit-scrollbar {
+    width: 6px;
+}
+
+.calculations-list::-webkit-scrollbar-thumb {
+    background: #333;
+    border-radius: var(--radius-sm);
+}
+
+.calculation-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: var(--space-md);
+    margin-bottom: var(--space-xs);
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-md);
+    cursor: pointer;
+    transition: var(--transition-smooth);
+}
+
+.calculation-item:hover {
+    background: rgba(255, 255, 255, 0.08);
+    border-color: var(--accent-primary);
+    transform: translateX(4px);
+}
+
+.calc-info {
+    flex: 1;
+}
+
+.calc-name {
+    font-weight: 600;
+    color: var(--text-primary);
+    margin-bottom: var(--space-xs);
+    font-size: 0.95rem;
+}
+
+.calc-details {
+    display: flex;
+    gap: var(--space-md);
+    font-size: 0.85rem;
+}
+
+.calc-value {
+    color: var(--accent-primary);
+    font-weight: 600;
+}
+
+.calc-date {
+    color: var(--text-secondary);
+}
+
+.calc-actions {
+    display: flex;
+    gap: var(--space-xs);
+}
+
+.action-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: var(--space-xs);
+    border-radius: var(--radius-sm);
+    transition: var(--transition-fast);
+    font-size: 1rem;
+}
+
+.action-btn:hover {
+    background: rgba(255, 255, 255, 0.1);
+    transform: scale(1.1);
+}
+
+.action-btn.delete:hover {
+    background: rgba(255, 0, 0, 0.2);
+}
+
+.rename-input {
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    border: 1px solid var(--accent-primary);
+    color: var(--text-primary);
+    padding: var(--space-xs);
+    border-radius: var(--radius-sm);
+    font-family: var(--font-sans);
+    font-size: 0.95rem;
+    outline: none;
+}

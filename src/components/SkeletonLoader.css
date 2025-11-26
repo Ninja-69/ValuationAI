@@ -1,0 +1,93 @@
+.skeleton {
+    background: linear-gradient(90deg,
+            rgba(255, 255, 255, 0.05) 25%,
+            rgba(255, 255, 255, 0.1) 50%,
+            rgba(255, 255, 255, 0.05) 75%);
+    background-size: 200% 100%;
+    animation: shimmer 1.5s infinite;
+    border-radius: var(--radius-md);
+}
+
+@keyframes shimmer {
+    0% {
+        background-position: -200% 0;
+    }
+
+    100% {
+        background-position: 200% 0;
+    }
+}
+
+.skeleton-form {
+    padding: var(--space-xl);
+}
+
+.skeleton-title {
+    height: 40px;
+    width: 60%;
+    margin-bottom: var(--space-md);
+}
+
+.skeleton-text {
+    height: 20px;
+    width: 80%;
+    margin-bottom: var(--space-xl);
+}
+
+.skeleton-input-group {
+    margin-bottom: var(--space-lg);
+}
+
+.skeleton-label {
+    height: 12px;
+    width: 30%;
+    margin-bottom: var(--space-xs);
+}
+
+.skeleton-input {
+    height: 48px;
+    width: 100%;
+}
+
+.skeleton-button {
+    height: 56px;
+    width: 100%;
+    margin-top: var(--space-lg);
+}
+
+.skeleton-chart {
+    padding: var(--space-lg);
+}
+
+.skeleton-chart-title {
+    height: 24px;
+    width: 40%;
+    margin-bottom: var(--space-md);
+}
+
+.skeleton-chart-body {
+    height: 300px;
+    width: 100%;
+}
+
+.skeleton-result {
+    padding: var(--space-xl);
+    text-align: center;
+}
+
+.skeleton-value {
+    height: 80px;
+    width: 60%;
+    margin: var(--space-xl) auto;
+}
+
+.skeleton-metrics {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-sm);
+    margin-top: var(--space-lg);
+}
+
+.skeleton-metric {
+    height: 80px;
+}

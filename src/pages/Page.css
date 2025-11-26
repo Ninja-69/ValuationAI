@@ -1,0 +1,60 @@
+.page-container {
+    background: var(--bg-card);
+    padding: 3rem;
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--border-color);
+    max-width: 800px;
+    margin: 0 auto;
+    min-height: 60vh;
+}
+
+.page-header {
+    text-align: center;
+    margin-bottom: 3rem;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 2rem;
+}
+
+.page-header h2 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+    color: var(--text-primary);
+}
+
+.page-header p {
+    color: var(--text-secondary);
+}
+
+.page-content section {
+    margin-bottom: 2.5rem;
+}
+
+.page-content h3 {
+    color: var(--accent-primary);
+    font-size: 1.2rem;
+    margin-bottom: 0.8rem;
+}
+
+.page-content p {
+    color: #ccc;
+    line-height: 1.7;
+    font-size: 1.05rem;
+}
+
+.highlight-box {
+    background: rgba(230, 81, 0, 0.1);
+    border: 1px solid var(--accent-primary);
+    padding: 1.5rem;
+    border-radius: var(--radius-md);
+    margin-top: 2rem;
+}
+
+.highlight-box h4 {
+    color: var(--accent-primary);
+    margin-bottom: 0.5rem;
+}
+
+.highlight-box p {
+    margin: 0;
+    font-size: 0.9rem;
+}

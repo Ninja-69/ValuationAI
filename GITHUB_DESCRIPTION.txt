@@ -1,0 +1,47 @@
+# GitHub Repository Description (Short)
+
+## Option 1 (Recommended - 150 chars):
+```
+Premium startup valuation calculator with particle effects, interactive charts, PDF export, and multi-currency support. Built with React + Vite.
+```
+
+## Option 2 (Ultra Short - 100 chars):
+```
+🚀 Advanced startup valuation calculator with beautiful UI, charts, PDF export & more. React + Vite.
+```
+
+## Option 3 (Feature-focused - 140 chars):
+```
+Calculate startup valuations with industry benchmarks, real-time validation, interactive charts, and professional PDF reports. React 19 + Vite.
+```
+
+## Option 4 (Tech-focused - 120 chars):
+```
+Full-featured startup valuation tool: particle animations, Recharts visualizations, PDF export, save/load. React + Zustand.
+```
+
+## Option 5 (Simple & Clean - 80 chars):
+```
+Premium startup valuation calculator with charts, PDF export, and benchmarks.
+```
+
+---
+
+## 🎯 RECOMMENDED FOR GITHUB:
+
+**Use Option 1** - It's the perfect balance:
+- ✅ Mentions key features
+- ✅ Shows tech stack
+- ✅ Under 150 characters (GitHub limit: 350)
+- ✅ Professional but exciting
+- ✅ SEO-friendly keywords
+
+---
+
+## Copy-Paste Ready:
+
+```
+Premium startup valuation calculator with particle effects, interactive charts, PDF export, and multi-currency support. Built with React + Vite.
+```
+
+**Character count: 148** ✅

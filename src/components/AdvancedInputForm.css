@@ -1,0 +1,83 @@
+.form-section {
+    margin-bottom: 2.5rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    padding-bottom: 1.5rem;
+}
+
+.form-section:last-child {
+    border-bottom: none;
+}
+
+.form-section h4 {
+    color: var(--text-primary);
+    font-size: 1rem;
+    margin-bottom: 1.2rem;
+    font-family: var(--font-serif);
+    opacity: 0.9;
+}
+
+.scrollable-form {
+    max-height: 60vh;
+    overflow-y: auto;
+    padding-right: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+/* Custom Scrollbar for form */
+.scrollable-form::-webkit-scrollbar {
+    width: 6px;
+}
+
+.scrollable-form::-webkit-scrollbar-thumb {
+    background: #333;
+}
+
+.form-actions {
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border-color);
+}
+
+.calculate-btn {
+    background: linear-gradient(135deg, var(--accent-primary) 0%, #ff9100 100%);
+    color: white;
+    border: none;
+    padding: 1.2rem 3rem;
+    font-size: 1.1rem;
+    font-weight: 700;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 10px 30px rgba(230, 81, 0, 0.3);
+    font-family: var(--font-sans);
+    width: 100%;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    position: relative;
+    overflow: hidden;
+}
+
+.calculate-btn::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+    transition: 0.5s;
+}
+
+.calculate-btn:hover {
+    transform: translateY(-3px) scale(1.02);
+    box-shadow: 0 15px 40px rgba(230, 81, 0, 0.5);
+}
+
+.calculate-btn:hover::before {
+    left: 100%;
+}
+
+.calculate-btn:active {
+    transform: translateY(-1px);
+}
