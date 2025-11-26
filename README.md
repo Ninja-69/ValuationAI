@@ -767,18 +767,7 @@ npm run build
 - âœ… Navigation (Header, Sidebar, Breadcrumbs)
 
 <br/>
-
----
-
-<br/>
-
-##  Usage Guide
-
-> Master Valuation.AI with our comprehensive usage guide
-
-<br/>
-
-###  Workflow
+### 🔄 Workflow
 
 Our intuitive workflow makes valuation simple and accurate:
 
@@ -809,49 +798,49 @@ graph TB
 
 **Detailed Step-by-Step:**
 
-1. ** Input Metrics**
+1. **📝 Input Metrics**
    - Enter ARR, growth rate, margins
    - Select industry and funding stage
    - Add unit economics (LTV, CAC)
    - Real-time validation guides you
 
-2. ** Validation**
+2. **✅ Validation**
    - Instant feedback on errors
    - Smart suggestions appear
    - Range checks prevent mistakes
    - Industry-specific tips
 
-3. ** Calculate**
+3. **🧮 Calculate**
    - Click \"Analyze Startup\"
    - Or press Ctrl+Enter
    - Algorithm runs instantly
    - Multiple factors considered
 
-4. ** Processing**
+4. **⏳ Processing**
    - Beautiful loading animation
    - 3-second calculation
    - Particle effects
    - Progress indicator
 
-5. ** Results**
+5. **🎉 Results**
    - Confetti celebration
    - Valuation displayed
    - Metric cards shown
    - Charts rendered
 
-6. ** Analyze**
+6. **📊 Analyze**
    - Explore interactive charts
    - Compare to benchmarks
    - See percentile ranking
    - Understand factors
 
-7. ** Save**
+7. **💾 Save**
    - Press Ctrl+S
    - Auto-saved to history
    - Rename if needed
    - Access anytime
 
-8. ** Export**
+8. **📤 Export**
    - PDF: Ctrl+P
    - Share: Ctrl+K
    - Multiple formats
@@ -859,7 +848,7 @@ graph TB
 
 <br/>
 
-###  Keyboard Shortcuts
+### ⌨️ Keyboard Shortcuts
 
 Power user features for maximum productivity:
 
@@ -871,87 +860,87 @@ Power user features for maximum productivity:
 </tr>
 <tr>
 <td><kbd>Ctrl</kbd> + <kbd>S</kbd></td>
-<td> <b>Save</b></td>
+<td>💾 <b>Save</b></td>
 <td>Save current calculation to history with auto-generated name</td>
 </tr>
 <tr>
 <td><kbd>Ctrl</kbd> + <kbd>Enter</kbd></td>
-<td> <b>Calculate</b></td>
+<td>🧮 <b>Calculate</b></td>
 <td>Run valuation algorithm on current inputs</td>
 </tr>
 <tr>
 <td><kbd>Ctrl</kbd> + <kbd>P</kbd></td>
-<td> <b>Export PDF</b></td>
+<td>📄 <b>Export PDF</b></td>
 <td>Download professional 2-page PDF report</td>
 </tr>
 <tr>
 <td><kbd>Ctrl</kbd> + <kbd>K</kbd></td>
-<td> <b>Share</b></td>
+<td>🔗 <b>Share</b></td>
 <td>Generate shareable link with QR code</td>
 </tr>
 <tr>
 <td><kbd>Ctrl</kbd> + <kbd>H</kbd></td>
-<td> <b>History</b></td>
+<td>📜 <b>History</b></td>
 <td>View past 50 calculations with search</td>
 </tr>
 <tr>
 <td><kbd>Ctrl</kbd> + <kbd>N</kbd></td>
-<td> <b>New</b></td>
+<td>➕ <b>New</b></td>
 <td>Start fresh calculation (clears form)</td>
 </tr>
 <tr>
 <td><kbd>Esc</kbd></td>
-<td> <b>Reset</b></td>
+<td>🔄 <b>Reset</b></td>
 <td>Clear all inputs and return to initial state</td>
 </tr>
 <tr>
 <td><kbd>?</kbd></td>
-<td> <b>Help</b></td>
+<td>❓ <b>Help</b></td>
 <td>Show keyboard shortcuts guide overlay</td>
 </tr>
 <tr>
 <td><kbd>Tab</kbd></td>
-<td> <b>Navigate</b></td>
+<td>➡️ <b>Navigate</b></td>
 <td>Move between form fields sequentially</td>
 </tr>
 <tr>
 <td><kbd>Shift</kbd> + <kbd>Tab</kbd></td>
-<td> <b>Back</b></td>
+<td>⬅️ <b>Back</b></td>
 <td>Navigate backwards through form fields</td>
 </tr>
 </table>
 
 <br/>
 
-###  Best Practices
+### 🎯 Best Practices
 
 **For Accurate Valuations:**
 
- **Use Real Data**
+✅ **Use Real Data**
 - Actual ARR, not projected
 - Verified growth rates
 - Confirmed margins
 - Real customer metrics
 
- **Select Correct Industry**
+✅ **Select Correct Industry**
 - Matches your primary business
 - Affects revenue multiple
 - Impacts benchmarks
 - Critical for accuracy
 
- **Update Regularly**
+✅ **Update Regularly**
 - Monthly recalculation
 - Track progress over time
 - See trend changes
 - Adjust strategy
 
- **Compare Benchmarks**
+✅ **Compare Benchmarks**
 - See percentile ranking
 - Understand position
 - Identify gaps
 - Set improvement goals
 
- **Export for Investors**
+✅ **Export for Investors**
 - Professional PDF reports
 - Include in pitch decks
 - Share with stakeholders
@@ -959,31 +948,31 @@ Power user features for maximum productivity:
 
 **Common Pitfalls to Avoid:**
 
- **Don't Inflate Numbers**
+❌ **Don't Inflate Numbers**
 - Unrealistic growth rates
 - Inflated margins
 - Optimistic projections
 - Leads to inaccurate results
 
- **Don't Ignore Churn**
+❌ **Don't Ignore Churn**
 - Critical for SaaS
 - Affects LTV calculation
 - Impacts valuation
 - Be honest about retention
 
- **Don't Use Old Data**
+❌ **Don't Use Old Data**
 - Outdated metrics
 - Stale benchmarks
 - Historical ARR
 - Update monthly
 
- **Don't Skip Unit Economics**
+❌ **Don't Skip Unit Economics**
 - LTV:CAC ratio matters
 - Shows business health
 - Affects multiplier
 - Required for accuracy
 
- **Don't Forget to Save**
+❌ **Don't Forget to Save**
 - Track historical valuations
 - Compare over time
 - Show investor progress
@@ -995,22 +984,22 @@ Power user features for maximum productivity:
 
 <br/>
 
-##  Valuation Algorithm
+## 🧮 Valuation Algorithm
 
 > Our proprietary algorithm combines multiple financial factors for accurate startup valuations
 
 <br/>
 
-###  Algorithm Components
+### 📊 Algorithm Components
 
 Our valuation model uses 4 key factors, each weighted by importance:
 
 | Factor | Weight | Range | Impact | Description |
 |--------|--------|-------|--------|-------------|
-| ** Revenue Multiple** | 40% | 5x - 25x | Industry baseline | Base valuation = ARR  industry multiple |
-| ** Growth Rate** | 30% | 0% - 300% | Exponential premium | Hyper-growth companies get higher multiples |
-| ** Rule of 40** | 20% | 0 - 150 | Efficiency score | Growth + Margin = business health |
-| ** Unit Economics** | 10% | 1x - 10x | Quality multiplier | LTV:CAC ratio shows sustainability |
+| **💰 Revenue Multiple** | 40% | 5x - 25x | Industry baseline | Base valuation = ARR  industry multiple |
+| **📈 Growth Rate** | 30% | 0% - 300% | Exponential premium | Hyper-growth companies get higher multiples |
+| **⚖️ Rule of 40** | 20% | 0 - 150 | Efficiency score | Growth + Margin = business health |
+| **🎯 Unit Economics** | 10% | 1x - 10x | Quality multiplier | LTV:CAC ratio shows sustainability |
 
 **Industry-Specific Multiples:**
 
@@ -1025,7 +1014,7 @@ Our valuation model uses 4 key factors, each weighted by importance:
 
 <br/>
 
-###  Mathematical Formula
+### 🔢 Mathematical Formula
 
 **Complete Valuation Formula:**
 
@@ -1070,17 +1059,17 @@ const finalValuation = baseValuation
 
 <br/>
 
-###  Example Calculation
+### 📈 Example Calculation
 
 **Scenario: High-Growth SaaS Startup**
 
 **Input Metrics:**
 ```
-ARR: ,000,000
+ARR: $2,000,000
 Growth Rate: 120% YoY
 Profit Margin: -20% (burning for growth)
-LTV: ,000
-CAC: ,000
+LTV: $40,000
+CAC: $8,000
 NRR: 110%
 Churn Rate: 2% monthly
 Industry: SaaS
@@ -1090,8 +1079,8 @@ Industry: SaaS
 
 ```
 Step 1: Base Valuation
-=   8 (SaaS multiple)
-= ,000,000
+= $2M × 8 (SaaS multiple)
+= $16,000,000
 
 Step 2: Growth Factor
 = 1 + (120/100)^1.5
@@ -1118,19 +1107,19 @@ Step 6: Churn Penalty
 = 1.00
 
 Final Valuation:
-=   2.63  2.06  1.67  1.10  1.00
-= ,400,000
+= $16M × 2.63 × 2.06 × 1.67 × 1.10 × 1.00
+= $158,400,000
 ```
 
-**Result:** Your startup is valued at **.4M** 
+**Result:** Your startup is valued at **$158.4M** 🎉 
 
 **Breakdown by Factor:**
-- Base:  (10.1%)
-- Growth: +.1M (16.5%)
-- Efficiency: +.0M (20.8%)
-- Unit Economics: +.7M (16.9%)
-- NRR: +.8M (10.0%)
-- **Total: .4M**
+- Base: $16M  (10.1%)
+- Growth: +$26.1M (16.5%)
+- Efficiency: +$33.0M (20.8%)
+- Unit Economics: +$26.7M (16.9%)
+- NRR: +$15.8M (10.0%)
+- **Total: $158.4M**
 
 <br/>
 
