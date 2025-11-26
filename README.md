@@ -597,15 +597,174 @@ Final Valuation:
 - **Total: $158.4M**
 
 <br/>
-  <a href="https://twitter.com/intent/tweet?text=Check%20out%20Valuation.AI%20-%20The%20most%20advanced%20startup%20valuation%20tool!%20%23startup%20%23valuation%20%23react&url=https://github.com/Ninja-69/ValuationAI">
-    <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FNinja-69%2FValuationAI" alt="Tweet"/>
-  </a>
-</p>
+
+---
+
+<br/>
+
+## 🗂️ Project Structure
+
+```bash
+ValuationAI/
+├── 📂 src/
+│   ├── 📂 assets/          # Static assets (images, icons)
+│   ├── 📂 components/      # Reusable UI components
+│   │   ├── 📂 charts/      # Recharts visualizations
+│   │   ├── 📂 common/      # Buttons, inputs, cards
+│   │   └── 📂 layout/      # Header, footer, sidebar
+│   ├── 📂 hooks/           # Custom React hooks
+│   ├── 📂 store/           # Zustand state management
+│   ├── 📂 utils/           # Helper functions & algorithms
+│   ├── 📂 styles/          # Global styles & themes
+│   ├── 📄 App.jsx          # Main application component
+│   └── 📄 main.jsx         # Entry point
+├── 📂 public/              # Public static files
+├── 📄 index.html           # HTML template
+├── 📄 package.json         # Dependencies & scripts
+├── 📄 vite.config.js       # Vite configuration
+└── 📄 README.md            # Documentation
+```
+
+<br/>
+
+---
+
+<br/>
+
+## 🔌 API Reference
+
+Valuation.AI exposes a calculation engine that can be used programmatically:
+
+```javascript
+import { calculateValuation } from './utils/valuationEngine';
+
+const result = calculateValuation({
+  arr: 1000000,
+  growthRate: 50,
+  margin: 10,
+  industry: 'SaaS'
+});
+
+console.log(result.finalValuation); // Output: 12500000
+```
+
+<br/>
+
+---
+
+<br/>
+
+## 🤝 Contributing
+
+We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
+
+1.  Fork the Project
+2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4.  Push to the Branch (`git push origin feature/AmazingFeature`)
+5.  Open a Pull Request
+
+<br/>
+
+---
+
+<br/>
+
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<br/>
+
+---
+
+<br/>
+
+## 🙏 Acknowledgments
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Recharts](https://recharts.org/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [Lucide Icons](https://lucide.dev/)
+
+<br/>
+
+---
+
+<br/>
+
+## 📞 Support & Community
+
+| Platform | Link | Description |
+| :--- | :--- | :--- |
+| **💬 Discord** | [Join Server](https://discord.gg/valuationai) | Chat with the community |
+| **🐦 Twitter** | [@ValuationAI](https://twitter.com/valuationai) | Updates & announcements |
+| **📧 Email** | [support@valuation.ai](mailto:support@valuation.ai) | Direct support |
+| **🐛 Issues** | [GitHub Issues](https://github.com/Ninja-69/ValuationAI/issues) | Report bugs |
+
+<br/>
+
+---
+
+<br/>
+
+## 🗺️ Roadmap
+
+- [x] **v1.0** - Core Valuation Engine & Dashboard
+- [ ] **v2.0** - User Accounts & Cloud Sync
+- [ ] **v2.5** - PDF Report Customization
+- [ ] **v3.0** - AI-Powered Market Analysis
+
+<br/>
+
+---
+
+<br/>
+
+## 📊 Project Stats
+
+<div align="center">
+
+![Alt](https://repobeats.axiom.co/api/embed/0123456789abcdef0123456789abcdef01234567.svg "Repobeats analytics image")
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ninja-69&show_icons=true&theme=radical&count_private=true" alt="Ninja-69's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninja-69&layout=compact&theme=radical" alt="Top Languages" />
+
+<br/>
+
+<a href="https://star-history.com/#Ninja-69/ValuationAI&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Ninja-69/ValuationAI&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Ninja-69/ValuationAI&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Ninja-69/ValuationAI&type=Date" />
+ </picture>
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- FOOTER -->
+<div align="center">
+
+### 🚀 Ready to Value Your Startup?
+
+[**Get Started Now**](#-quick-start) • [**View Demo**](#-demo) • [**Report Bug**](https://github.com/Ninja-69/ValuationAI/issues)
 
 <br/>
 
 <p>
-  <small>© 2024 Valuation.AI. All rights reserved.</small>
+  Made with ❤️ by <a href="https://github.com/Ninja-69"><b>Ninja-69</b></a>
 </p>
 
-</div>
+<p>
+  <a href="https://github.com/Ninja-69/ValuationAI">
+    <img src="https://img.shields.io/github/stars/Ninja-69/ValuationAI?style=social" alt="GitHub stars"/>
+  </a>
