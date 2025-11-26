@@ -20,11 +20,11 @@
 <br />
 <br />
 
-**[🌐 Live Demo](#) • [📖 Documentation](#features) • [🐛 Report Bug](https://github.com/yourusername/valuation-ai/issues) • [✨ Request Feature](https://github.com/yourusername/valuation-ai/issues)**
+**[🌐 Live Demo](https://github.com/Ninja-69/ValuationAI) • [📖 Documentation](#features) • [🐛 Report Bug](https://github.com/Ninja-69/ValuationAI/issues) • [✨ Request Feature](https://github.com/Ninja-69/ValuationAI/issues)**
 
 <br />
 
-![Valuation.AI Screenshot](https://via.placeholder.com/800x400/030303/E65100?text=Valuation.AI+Screenshot)
+![Valuation.AI Screenshot](screenshots/home.png)
 
 <br />
 
@@ -117,10 +117,10 @@
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/yourusername/valuation-ai.git
+git clone https://github.com/Ninja-69/ValuationAI.git
 
 # 2️⃣ Navigate to directory
-cd valuation-ai
+cd ValuationAI
 
 # 3️⃣ Install dependencies
 npm install
@@ -147,14 +147,14 @@ npm run preview
 
 <div align="center">
 
-### 🏠 Home Page
-![Home](https://via.placeholder.com/800x400/030303/E65100?text=Home+Page)
+### 🏠 Home Page - Input Form
+![Home Page](screenshots/home.png)
 
 ### 📊 Results Dashboard
-![Results](https://via.placeholder.com/800x400/030303/4CAF50?text=Results+Dashboard)
+![Results](screenshots/results.png)
 
-### 📈 Charts & Analytics
-![Charts](https://via.placeholder.com/800x400/030303/2196F3?text=Charts+%26+Analytics)
+### 📈 Full Dashboard View
+![Dashboard](screenshots/dashboard.png)
 
 </div>
 
@@ -321,28 +321,23 @@ Valuation = ARR × Base Multiple × Growth Factor × Efficiency Multiplier
 ## 🗂️ Project Structure
 
 ```
-valuation-ai/
+ValuationAI/
+├── 📁 screenshots/         # App screenshots
 ├── 📁 public/              # Static assets
 ├── 📁 src/
 │   ├── 📁 components/      # React components
 │   │   ├── 📁 charts/      # Chart components
-│   │   │   ├── ValuationBreakdown.jsx
-│   │   │   ├── HistoricalChart.jsx
-│   │   │   └── MetricsRadar.jsx
 │   │   ├── AdvancedInputForm.jsx
 │   │   ├── ValuationDisplay.jsx
 │   │   ├── Navigation.jsx
 │   │   ├── ParticleBackground.jsx
 │   │   ├── CustomCursor.jsx
-│   │   ├── SaveLoadPanel.jsx
-│   │   └── SkeletonLoader.jsx
+│   │   └── SaveLoadPanel.jsx
 │   ├── 📁 utils/           # Utilities
 │   │   ├── valuationAlgorithm.js
 │   │   ├── pdfExport.js
 │   │   ├── shareUtils.js
-│   │   ├── validation.js
-│   │   ├── sounds.js
-│   │   └── confetti.js
+│   │   └── validation.js
 │   ├── 📁 store/           # State management
 │   │   └── useAppStore.js
 │   ├── 📁 data/            # Static data
@@ -353,16 +348,11 @@ valuation-ai/
 │   │   ├── Methodology.jsx
 │   │   └── About.jsx
 │   ├── App.jsx             # Main app
-│   ├── App.css             # App styles
-│   ├── index.css           # Global styles
 │   └── main.jsx            # Entry point
-├── 📄 package.json         # Dependencies
-├── 📄 vite.config.js       # Vite config
 ├── 📄 README.md            # This file
 ├── 📄 LICENSE              # MIT License
 ├── 📄 CONTRIBUTING.md      # Contribution guide
-├── 📄 CODE_OF_CONDUCT.md   # Code of conduct
-└── 📄 CHANGELOG.md         # Version history
+└── 📄 package.json         # Dependencies
 ```
 
 ---
@@ -373,8 +363,8 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ### Contributors
 
-<a href="https://github.com/yourusername/valuation-ai/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=yourusername/valuation-ai" />
+<a href="https://github.com/Ninja-69/ValuationAI/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Ninja-69/ValuationAI" />
 </a>
 
 ---
@@ -415,13 +405,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/valuation-ai?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/valuation-ai?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/valuation-ai?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Ninja-69/ValuationAI?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Ninja-69/ValuationAI?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Ninja-69/ValuationAI?style=social)
 
-![GitHub issues](https://img.shields.io/github/issues/yourusername/valuation-ai?style=flat-square)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/valuation-ai?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/valuation-ai?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/Ninja-69/ValuationAI?style=flat-square)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Ninja-69/ValuationAI?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/Ninja-69/ValuationAI?style=flat-square)
 
 </div>
 
@@ -448,7 +438,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=yourusername%2Fvaluation-ai&label=Visitors&countColor=%23E65100&style=flat-square)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Ninja-69%2FValuationAI&label=Visitors&countColor=%23E65100&style=flat-square)
 
 **If you found this helpful, please ⭐ star the repo!**
 
