@@ -575,8 +575,7 @@ npm run build
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://placehold.co/150x150/E65100/E65100.png" alt="Primary"/>
-<br/><br/>
+<br/>
 <b>🔥 Primary</b><br/>
 <code>#E65100</code><br/>
 <sub>Burnt Orange</sub><br/>
@@ -584,26 +583,10 @@ npm run build
 <small>hsl(21, 100%, 45%)</small>
 </td>
 <td align="center" width="20%">
-<img src="https://placehold.co/150x150/FF6F00/FF6F00.png" alt="Secondary"/>
-<br/><br/>
+<br/>
 <b>🌅 Secondary</b><br/>
 <code>#FF6F00</code><br/>
 <sub>Deep Orange</sub><br/>
-<small>rgb(255, 111, 0)</small><br/>
-<small>hsl(26, 100%, 50%)</small>
-</td>
-<td align="center" width="20%">
-<img src="https://placehold.co/150x150/030303/030303.png" alt="Background"/>
-<br/><br/>
-<b>🌑 Background</b><br/>
-<code>#030303</code><br/>
-<sub>Almost Black</sub><br/>
-<small>rgb(3, 3, 3)</small><br/>
-<small>hsl(0, 0%, 1%)</small>
-</td>
-<td align="center" width="20%">
-<img src="https://placehold.co/150x150/FFFFFF/FFFFFF.png" alt="Text"/>
-<br/><br/>
 <b>💡 Text</b><br/>
 <code>#FFFFFF</code><br/>
 <sub>Pure White</sub><br/>
